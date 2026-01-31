@@ -1,0 +1,14 @@
+{
+  "data": {
+    "task": [
+      {
+        "id": 1,
+        "title": "Finish project documentation",
+        "description": "Write and review the final documentation for the API project.",
+        "created_at": "2026-01-30T10:15:00Z",
+        "updated_at": "2026-01-30T10:15:00Z",
+        "completed": false
+      }
+    ]
+  }
+}
