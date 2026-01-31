@@ -66,8 +66,8 @@ TaskManagerAPI/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/task-manager-api.git
-cd task-manager-api
+git clone https://github.com/pywithsanjay/tasks.git
+cd tasks
 ```
 
 ### 2️⃣ Install Dependencies
